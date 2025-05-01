@@ -24,16 +24,18 @@ This project implements a **fraud detection system** using a labeled dataset of 
 ---
 
 ## Final Results
-
+```bash 
 Classification Report:
-              precision    recall  f1-score   support
+                precision    recall  f1-score   support
 
    Not Fraud       1.00      1.00      1.00     85295
        Fraud       0.88      0.80      0.84       148
+
     accuracy                           1.00     85443
    macro avg       0.94      0.90      0.92     85443
 weighted avg       1.00      1.00      1.00     85443
 
+```
 Model Used: Random Forest
 Performance: High accuracy, with strong results even for the minority fraud class
 
