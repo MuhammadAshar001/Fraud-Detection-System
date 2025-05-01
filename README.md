@@ -36,8 +36,8 @@ Classification Report:
 weighted avg       1.00      1.00      1.00     85443
 
 ```
-Model Used: Random Forest
-Performance: High accuracy, with strong results even for the minority fraud class
+- Model Used: Random Forest
+- Performance: High accuracy, with strong results even for the minority fraud class
 
 ---
 
