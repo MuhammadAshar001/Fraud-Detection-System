@@ -83,5 +83,4 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-> Designed with accuracy and practicality in mind — ideal for real-time fraud detection systems.
 
